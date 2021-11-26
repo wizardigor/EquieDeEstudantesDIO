@@ -119,5 +119,20 @@ Para facilitar a busca e estudantes DIO
             <br />
             :computer:
         </td>
+     </tr>
+     <tr>  
+        <td align="center">
+            <a href="https://github.com/LourenceQ">
+                <kbd>
+                    <img src="https://avatars3.githubusercontent.com/LourenceQ?size=400" width="100px;" alt="Lourence Fófano"/>
+                </kbd>
+                <br/>
+                <sub>
+                    <b>Lourence Fófano</b>
+                </sub>
+            </a>
+            <br />
+            :computer:
+        </td>
     </tr>
 </table>
