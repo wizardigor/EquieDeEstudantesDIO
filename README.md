@@ -8,9 +8,7 @@ Para facilitar a busca e estudantes DIO
 
 ## Contribuidores
 
-\*Copie tudo entre as primeiras tags <code><td aling="center></code> e <code>< /td></code> e cole tudo antes da tag <code>< /tr></code>,
-
-## contribuidores  
+\*Copie tudo entre as primeiras tags <code><td aling="center></code> e <code>< /td></code> e cole tudo antes da tag <code>< /tr></code>,  
     
 <table>
     <!-- line 1 -->
