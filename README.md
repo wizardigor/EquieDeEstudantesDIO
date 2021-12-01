@@ -132,5 +132,18 @@ Para facilitar a busca e estudantes DIO
             <br />
             :computer:
         </td>
+        <td align="center">
+            <a href="https://github.com/thalyssonborges">
+                <kbd>
+                    <img src="https://avatars3.githubusercontent.com/thalyssonborges?size=400" width="100px;" alt="Thalysson Borges"/>
+                </kbd>
+                <br/>
+                <sub>
+                    <b>Thalysson Borges</b>
+                </sub>
+            </a>
+            <br />
+            :computer:
+        </td>
     </tr>
 </table>
